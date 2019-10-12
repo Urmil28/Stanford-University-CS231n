@@ -5,8 +5,6 @@ The course website: http://cs231n.stanford.edu/
 
 These are my solutions for this above course (Spring 2016-2017). I did not enroll in Stanford to take this course and am greatful to have the generous access to the course notes, lecture videos and assignment codes, which is made public for everyone. I am welcome to hear about any errors, if found in these codes.
 
-The entire course has not been completed and I will update it as and when its done.
-
 Assignment list:
 
     Assignment 1:
